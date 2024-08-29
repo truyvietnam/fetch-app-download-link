@@ -8,5 +8,7 @@ Useful for who want to download old version of application on Microsoft Store if
 
 You can find list of old Minecraft Bedrock version update ID I am using in [here](https://github.com/MinecraftBedrockArchiver/Metadata/blob/master/w10_meta.json)
 
+Some old versions are deleted so you can't download it from Microsoft
+
 # Credit 
 [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Minecraft Bedrock launcher that allowed us to degrade MC Bedrock version
