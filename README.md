@@ -12,3 +12,5 @@ Some old versions are deleted so you can't download it from Microsoft
 
 # Credit 
 [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Minecraft Bedrock launcher that allowed us to degrade MC Bedrock version
+
+[JiayiLauncher](https://github.com/JiayiSoftware/JiayiLauncher) - Same as the MCLauncher but Jiayi didn't use Msa token to build request XML
