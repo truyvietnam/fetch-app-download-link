@@ -265,7 +265,6 @@ func main() {
 	fmt.Scan(&id)
 
 	fmt.Printf("\nDownload link: %s\n\n", GetDownloadLink(id))
-	fmt.Println("Press Enter to close")
+	fmt.Print("Press Enter to close")
 	fmt.Scanln()
-	fmt.Scanln() // silly hack
 }
